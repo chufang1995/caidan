@@ -16,7 +16,7 @@
 
 ```
 src/
-├── index.tsx            # 入口（勿修改）
+├── index.html            # 入口（勿修改）
 ├── app.tsx              # 路由配置（仅在 <Routes> 内增删 <Route>）
 ├── index.css            # 全局样式 + 主题变量
 ├── components/          # 基础 UI 组件（禁止存放业务组件）
